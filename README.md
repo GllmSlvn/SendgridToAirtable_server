@@ -25,7 +25,7 @@ This project is an Express server built with Node.js, designed to manage webhook
 
    ```bash
    cd sendgrid-airtable-server
-   git clone https://github.com/your-username/sendgrid-airtable-server.git
+   git clone https://github.com/GllmSlvn/SendgridToAirtable_server.git
    ```
    
 2. Install the required dependencies:
